@@ -95,6 +95,7 @@ export default function Home() {
             width={16}
             height={16}
           />
+          <h1>여기에 새로운 텍스트를 추가합니다.</h1>
           Go to nextjs.org →
         </a>
       </footer>
